@@ -1,1 +1,1 @@
-# react
+# Rocket Academy Coding Bootcamp: Base React Bootcamp
